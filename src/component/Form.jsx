@@ -1,7 +1,7 @@
 import * as yup from "yup";
 import { useState } from "react";
 import Confetti from "react-confetti"; // Import Confetti
-import "./Form.css";
+import "./form.css";
 
 const Form = () => {
   const [firstName, setFirstName] = useState("");
